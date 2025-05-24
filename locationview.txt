@@ -1,0 +1,1 @@
+curl "https://nominatim.openstreetmap.org/reverse?format=json&lat=""&lon="""
